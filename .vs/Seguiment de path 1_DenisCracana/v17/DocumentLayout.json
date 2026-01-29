@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity\\Seguiment de path 1_DenisCracana\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD67165-FA77-432A-8B0D-7553C5BC91E0}|Assembly-CSharp.csproj|c:\\unity\\seguiment de path 1_deniscracana\\assets\\scripts\\pathfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD67165-FA77-432A-8B0D-7553C5BC91E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pathfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF01045-9F63-1ECA-ACEF-C685A22B36FD}|BezierSolution.Runtime.csproj|C:\\Unity\\Seguiment de path 1_DenisCracana\\assets\\plugins\\beziersolution\\utilities\\bezierwalkerwithtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF01045-9F63-1ECA-ACEF-C685A22B36FD}|BezierSolution.Runtime.csproj|solutionrelative:assets\\plugins\\beziersolution\\utilities\\bezierwalkerwithtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF01045-9F63-1ECA-ACEF-C685A22B36FD}|BezierSolution.Runtime.csproj|C:\\Unity\\Seguiment de path 1_DenisCracana\\assets\\plugins\\beziersolution\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1DF01045-9F63-1ECA-ACEF-C685A22B36FD}|BezierSolution.Runtime.csproj|solutionrelative:assets\\plugins\\beziersolution\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF01045-9F63-1ECA-ACEF-C685A22B36FD}|BezierSolution.Runtime.csproj|C:\\Unity\\Seguiment de path 1_DenisCracana\\assets\\plugins\\beziersolution\\attributes\\minmaxrangeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF01045-9F63-1ECA-ACEF-C685A22B36FD}|BezierSolution.Runtime.csproj|solutionrelative:assets\\plugins\\beziersolution\\attributes\\minmaxrangeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF01045-9F63-1ECA-ACEF-C685A22B36FD}|BezierSolution.Runtime.csproj|C:\\Unity\\Seguiment de path 1_DenisCracana\\assets\\plugins\\beziersolution\\bezierspline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF01045-9F63-1ECA-ACEF-C685A22B36FD}|BezierSolution.Runtime.csproj|solutionrelative:assets\\plugins\\beziersolution\\bezierspline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF01045-9F63-1ECA-ACEF-C685A22B36FD}|BezierSolution.Runtime.csproj|C:\\Unity\\Seguiment de path 1_DenisCracana\\assets\\plugins\\beziersolution\\beziersolution.runtime.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1DF01045-9F63-1ECA-ACEF-C685A22B36FD}|BezierSolution.Runtime.csproj|solutionrelative:assets\\plugins\\beziersolution\\beziersolution.runtime.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF01045-9F63-1ECA-ACEF-C685A22B36FD}|BezierSolution.Runtime.csproj|C:\\Unity\\Seguiment de path 1_DenisCracana\\assets\\plugins\\beziersolution\\bezierpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF01045-9F63-1ECA-ACEF-C685A22B36FD}|BezierSolution.Runtime.csproj|solutionrelative:assets\\plugins\\beziersolution\\bezierpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BezierWalkerWithTime.cs",
+              "DocumentMoniker": "C:\\Unity\\Seguiment de path 1_DenisCracana\\Assets\\Plugins\\BezierSolution\\Utilities\\BezierWalkerWithTime.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\BezierSolution\\Utilities\\BezierWalkerWithTime.cs",
+              "ToolTip": "C:\\Unity\\Seguiment de path 1_DenisCracana\\Assets\\Plugins\\BezierSolution\\Utilities\\BezierWalkerWithTime.cs",
+              "RelativeToolTip": "Assets\\Plugins\\BezierSolution\\Utilities\\BezierWalkerWithTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T14:54:35.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Unity\\Seguiment de path 1_DenisCracana\\Assets\\Plugins\\BezierSolution\\README.txt",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\BezierSolution\\README.txt",
+              "ToolTip": "C:\\Unity\\Seguiment de path 1_DenisCracana\\Assets\\Plugins\\BezierSolution\\README.txt",
+              "RelativeToolTip": "Assets\\Plugins\\BezierSolution\\README.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-23T14:53:34.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MinMaxRangeAttribute.cs",
+              "DocumentMoniker": "C:\\Unity\\Seguiment de path 1_DenisCracana\\Assets\\Plugins\\BezierSolution\\Attributes\\MinMaxRangeAttribute.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\BezierSolution\\Attributes\\MinMaxRangeAttribute.cs",
+              "ToolTip": "C:\\Unity\\Seguiment de path 1_DenisCracana\\Assets\\Plugins\\BezierSolution\\Attributes\\MinMaxRangeAttribute.cs",
+              "RelativeToolTip": "Assets\\Plugins\\BezierSolution\\Attributes\\MinMaxRangeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T14:50:16.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BezierSpline.cs",
+              "DocumentMoniker": "C:\\Unity\\Seguiment de path 1_DenisCracana\\Assets\\Plugins\\BezierSolution\\BezierSpline.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\BezierSolution\\BezierSpline.cs",
+              "ToolTip": "C:\\Unity\\Seguiment de path 1_DenisCracana\\Assets\\Plugins\\BezierSolution\\BezierSpline.cs",
+              "RelativeToolTip": "Assets\\Plugins\\BezierSolution\\BezierSpline.cs",
+              "ViewState": "AgIAAK8FAAAAAAAAAAAAAMkFAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T14:49:00.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PathFollower.cs",
+              "DocumentMoniker": "C:\\Unity\\Seguiment de path 1_DenisCracana\\Assets\\Scripts\\PathFollower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PathFollower.cs",
+              "ToolTip": "C:\\Unity\\Seguiment de path 1_DenisCracana\\Assets\\Scripts\\PathFollower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PathFollower.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T15:34:59.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BezierSolution.Runtime.asmdef",
+              "DocumentMoniker": "C:\\Unity\\Seguiment de path 1_DenisCracana\\Assets\\Plugins\\BezierSolution\\BezierSolution.Runtime.asmdef",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\BezierSolution\\BezierSolution.Runtime.asmdef",
+              "ToolTip": "C:\\Unity\\Seguiment de path 1_DenisCracana\\Assets\\Plugins\\BezierSolution\\BezierSolution.Runtime.asmdef",
+              "RelativeToolTip": "Assets\\Plugins\\BezierSolution\\BezierSolution.Runtime.asmdef",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001874|",
+              "WhenOpened": "2026-01-23T14:49:33.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BezierPoint.cs",
+              "DocumentMoniker": "C:\\Unity\\Seguiment de path 1_DenisCracana\\Assets\\Plugins\\BezierSolution\\BezierPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\BezierSolution\\BezierPoint.cs",
+              "ToolTip": "C:\\Unity\\Seguiment de path 1_DenisCracana\\Assets\\Plugins\\BezierSolution\\BezierPoint.cs",
+              "RelativeToolTip": "Assets\\Plugins\\BezierSolution\\BezierPoint.cs",
+              "ViewState": "AgIAAMoBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T14:48:51.042Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
